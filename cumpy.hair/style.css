@@ -1,0 +1,32 @@
+body{
+    background-color: #2b2a33;
+}
+
+h1{
+    color: #fbfbfe;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 4.5em;
+}
+
+#cumphair{
+    width: 320px;
+    height: 383px;
+    margin: auto;
+
+}
+
+#af{
+    font-family: "Comic Sans MS";
+    font-size: 4em;
+}
+
+#gallery{
+    border: #fbfbfe dashed 0px;
+    text-align: center;
+
+}
+.gallery img{
+    width: 15%;
+    height: auto;
+}
