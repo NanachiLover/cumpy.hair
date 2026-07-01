@@ -30,3 +30,13 @@ h1{
     width: 15%;
     height: auto;
 }
+
+#minigif{
+    text-align: center;
+}
+.minigif img{
+    width: 7%;
+    height: auto;
+    margin: -2px;
+    border: none;
+}
