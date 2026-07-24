@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cumpyhair",
+  "compatibility_date": "2026-07-24",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "cumpy.hair"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
