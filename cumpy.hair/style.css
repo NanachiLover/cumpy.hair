@@ -40,3 +40,8 @@ h1{
     margin: -2px;
     border: none;
 }
+
+#homebutt{
+    padding: 12px 32px;
+    font-size: 48px;
+}
