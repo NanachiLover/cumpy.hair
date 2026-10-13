@@ -44,4 +44,22 @@ h1{
 #homebutt{
     padding: 12px 32px;
     font-size: 48px;
+    background-color: #43414d;
+    border-style: outset;
+    border-color: #555362;
+    border-width: 6px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+#butts{
+    text-align: center;
+    margin: 40px;
+}
+
+#homebutt:hover{
+    transition-duration: .4s;
+    background-color: #2f2d37;
+    border-style: inset;
+    border-color: #413f4b
 }
