@@ -26,9 +26,36 @@ h1{
     text-align: center;
 
 }
+
 .gallery img{
     width: 15%;
     height: auto;
+}
+
+#gallerybutt{
+    text-align: center;
+}
+
+.gallerybutt button{
+    padding: 4px 12px;
+    font-size: 28px;
+    background-color: #237f93;
+    border-style: outset;
+    border-color: #064351;
+    border-width: 6px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    color: #fbfbfe;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+.gallerybutt button:hover{
+    transition-duration: .4s;
+    background-color: #186576;
+    border-style: inset;
+    border-color: #04404d;
+    color: #dadae3;
 }
 
 #minigif{
@@ -41,6 +68,11 @@ h1{
     border: none;
 }
 
+#butts{
+    text-align: center;
+    margin: 40px;
+}
+
 #homebutt{
     padding: 12px 32px;
     font-size: 48px;
@@ -50,16 +82,41 @@ h1{
     border-width: 6px;
     transition-duration: 0.4s;
     cursor: pointer;
+    color: #fbfbfe;
+    font-family: "Comic Sans MS";
 }
 
-#butts{
-    text-align: center;
-    margin: 40px;
-}
 
 #homebutt:hover{
     transition-duration: .4s;
     background-color: #2f2d37;
     border-style: inset;
-    border-color: #413f4b
+    border-color: #413f4b;
+    color: #dadae3;
+}
+
+#butter{
+    padding: 4px 12px;
+    font-size: 28px;
+    background-color: #ff8f57;
+    border-style: outset;
+    border-color: #dc703b;
+    border-width: 6px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    color: #fbfbfe;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+#butter:hover{
+    transition-duration: .4s;
+    background-color: #d5713f;
+    border-style: inset;
+    border-color: #d06833;
+    color: #dadae3;
+}
+
+#arrow{
+    text-align: center;
 }
