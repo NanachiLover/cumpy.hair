@@ -48,6 +48,8 @@ h1{
     color: #fbfbfe;
     font-family: "Comic Sans MS";
     text-align: center;
+    width: 15%;
+    height: auto;
 }
 
 .gallerybutt button:hover{
