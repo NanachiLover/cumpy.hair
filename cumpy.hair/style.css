@@ -4,7 +4,7 @@ body{
 
 h1{
     color: #fbfbfe;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 4.5em;
 }
@@ -23,13 +23,18 @@ h1{
 
 #gallery{
     border: #fbfbfe dashed 0px;
-    text-align: center;
+    text-align: left;
 
 }
 
 .gallery img{
-    width: 15%;
+    width: 30%;
     height: auto;
+}
+
+#incoming{
+    width: 50%;
+    float: left;
 }
 
 #gallerybutt{
