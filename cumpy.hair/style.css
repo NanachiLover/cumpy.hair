@@ -32,6 +32,17 @@ h1{
     height: auto;
 }
 
+#notgallery{
+    border: #fbfbfe dashed 0px;
+    text-align: center;
+
+}
+
+.notgallery img{
+    width: 15%;
+    height: auto;
+}
+
 #incoming{
     width: 50%;
     float: left;
